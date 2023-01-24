@@ -1,0 +1,10 @@
+.beer{
+    display:flex;
+    flex-direction: row !important;
+    border:none !important;
+}
+
+.image {
+    height:500px;
+    width: auto !important;
+}

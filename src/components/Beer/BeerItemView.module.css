@@ -1,0 +1,28 @@
+.beer_item {
+    margin:1em auto;
+}
+.beer_name{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    line-height: 1;
+}
+.beer_image{
+    height:300px;
+    width: auto !important;
+    margin: 1.5em auto auto auto;
+}
+.beer_description{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.beer_tagline {
+    overflow: hidden;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    line-height: 2;
+}

@@ -1,0 +1,12 @@
+.searchName {
+    margin-bottom: 1.5em;
+}
+
+.abv_option {
+    display: flex;
+    flex-direction: row;
+    margin-bottom:.5em;
+}
+.radio {
+    margin-right: 1em;
+}
